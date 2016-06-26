@@ -1,0 +1,8 @@
+En la tabla de UserModule están todos los módulos de los usuarios. Se pide una query que diga cuántos módulos se ha pasado cada usuario (status = DONE), con el siguiente formato:
+
+email		 | modulos
+
+pepe@yump.com	    4
+paqui@yump.com	    3
+manolo@yump.com	    1
+...

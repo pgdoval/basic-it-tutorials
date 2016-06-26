@@ -1,0 +1,8 @@
+Dada una función que lee de un archivo, y otra que divide strings en listas en base a un carácter separador, escribir el cuadrado de cada uno. Ej:
+
+1,2,3,1
+-------
+1
+4
+9
+1
